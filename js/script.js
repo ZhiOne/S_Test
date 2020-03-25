@@ -12,3 +12,4 @@ const dar = () => {
 
 console.log(dar());
 
+const abc = Boolean([]);
