@@ -1,8 +1,7 @@
 "use strict";
 
 const pi = () => {
-  return 3.14
+  return Math.PI;
 };
 
 console.log(pi());
-
